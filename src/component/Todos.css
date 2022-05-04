@@ -1,0 +1,4 @@
+.Todos { }
+.Todos h2 {font-size: 25px; margin-bottom: 15px; margin-top: 30px;}
+.Todos form  { margin-bottom: 20px; }
+.Todos form input { width: 100% ; margin-right: 10px; height: 35px; text-indent: 10px; }
